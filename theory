@@ -1,0 +1,61 @@
+Q1: How AI-driven code generation tools (e.g., GitHub Copilot) reduce development time. What are their limitations?
+Reduction in Development Time:
+
+Code Autocompletion: AI tools suggest real-time code snippets, reducing manual typing and boilerplate code writing.
+
+Faster Debugging: They help identify and fix common errors quickly.
+
+Learning Assistance: Developers can quickly learn new languages/frameworks by relying on AI-generated examples.
+
+Reduced Context Switching: Automating repetitive tasks allows developers to focus on complex logic.
+
+Limitations:
+
+Code Quality & Security Risks: AI may generate inefficient, insecure, or outdated code.
+
+Over-Reliance: Developers might accept incorrect suggestions without proper review.
+
+Limited Understanding: AI lacks deep contextual awareness of business logic.
+
+Licensing Issues: Generated code may unintentionally replicate copyrighted snippets.
+
+Q2: Compare supervised and unsupervised learning in the context of automated bug detection.
+Aspect	Supervised Learning	Unsupervised Learning
+Data Requirements	Needs labeled bug/non-bug datasets.	Works with raw, unlabeled code.
+Detection Approach	Classifies known bug patterns (e.g., null pointer exceptions).	Identifies anomalies or unusual code patterns.
+Accuracy	High for known bugs but limited to training data.	Can detect novel bugs but may produce false positives.
+Use Case	Best for repetitive, well-documented bugs.	Useful for discovering new, unexpected bugs.
+
+Q3: Why is bias mitigation critical when using AI for user experience personalization?
+Fairness & Inclusivity: Bias can exclude or misrepresent certain user groups (e.g., gender, race, or location-based discrimination).
+
+Reputation Risk: Biased recommendations can lead to PR backlash and loss of user trust (e.g., AI favoring premium users over free-tier users).
+
+Legal Compliance: Regulations (e.g., GDPR, AI Act) require fairness in automated decision-making.
+
+Business Impact: Biased personalization can reduce engagement and revenue by providing irrelevant or offensive content.
+
+2. Case Study Analysis: AI in DevOps – Automating Deployment Pipelines
+Key Benefits of AI in DevOps Deployment Pipelines:
+Automated Testing & QA: AI predicts test cases, detects flaky tests, and prioritizes critical failures.
+
+Anomaly Detection in Deployments: ML models monitor logs/metrics to detect deployment failures early.
+
+Predictive Scaling: AI forecasts traffic spikes and auto-scales infrastructure.
+
+Self-Healing Systems: AI-driven rollbacks or fixes reduce downtime.
+
+Challenges:
+Data Dependency: AI requires high-quality historical deployment data.
+
+False Positives: Over-alerting can lead to "alert fatigue."
+
+Integration Complexity: Legacy systems may not support AI-driven automation.
+
+Future Trends:
+AI-Ops Integration: Combining AI with observability tools for smarter incident response.
+
+Explainable AI (XAI): Making AI-driven decisions transparent for compliance.
+
+Would you like a deeper analysis on any specific part?
+

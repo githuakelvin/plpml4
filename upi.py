@@ -27,8 +27,7 @@ df = df.dropna(subset=['Target_Severity_Score'])
 # Clean data
 #df.dropna(inplace=True)
 
-# Drop rows with NaN in the target variable
-df = df.dropna(subset=['Target_Severity_Score'])
+
 #X = df.drop(['Air_Pollution', 'Target_Severity_Score'], axis=1)  # Features
 #y = df['Genetic_Risk']  # Target (M=malignant/B=benign)
 # Data Preprocessing
